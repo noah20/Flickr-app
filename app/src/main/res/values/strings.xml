@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">flickr app</string>
+    <string name="search_activity">search</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="details_header">Photo Details</string>
+    <string name="details_title"><b>Title</b> : %s</string>
+    <string name="details_author"><b>Author</b> : %s</string>
+    <string name="details_author_id"><b>Author Id</b> : %s</string>
+    <string name="details_tags"><b>Tags</b> : %s</string>
+    <string name="show_full_image">show full image</string>
+    <string name="small_image">small image</string>
+    <string name="photo_details_act">Photo</string>
+</resources>
