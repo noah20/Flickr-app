@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="912" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
+    <option name="MAX_LOOKUP_WIDTH2" value="847" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
