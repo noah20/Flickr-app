@@ -5,9 +5,11 @@
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="SQL" />
       <mapping pattern="Cookies" type="XML" />
+      <mapping ext="ser" type="YAML" />
     </extensionMap>
   </component>
 </application>
