@@ -1,15 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="dex" approved="true" type="DEX" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="Cookies-journal" type="JSON" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
-      <mapping ext="dex" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="SQL" />
       <mapping pattern="Cookies" type="XML" />
       <mapping ext="ser" type="YAML" />
+      <removed_mapping ext="dex" approved="true" type="DEX" />
     </extensionMap>
   </component>
 </application>
