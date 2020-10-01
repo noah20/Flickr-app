@@ -4,6 +4,7 @@
       <removed_mapping ext="dex" approved="true" type="DEX" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="Cookies-journal" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
