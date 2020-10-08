@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="floatingWindow" type="CLASS" />
       <removed_mapping ext="dex" approved="true" type="DEX" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="Cookies-journal" type="JSON" />
